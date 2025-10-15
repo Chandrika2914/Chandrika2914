@@ -13,7 +13,6 @@ Passionate about turning data into meaningful insights through <b>Python, SQL, T
 ---
 
 ## 🚀 About Me
-- 🎓 Master’s candidate in **Data Science** at the University of Central Missouri (GPA: 3.83/4.0).  
 - 💡 5 years of diverse professional experience across **data analytics, research, SEO, and technical coordination**.
 - 🧩 Skilled in **data cleaning, visualization, and enthusiastic in feature engineering, and ML model development**. 
 - 🧠 Co-authored **IEEE research** on *Cognitive Workload Detection using Multispectral Imaging (NIR/LWIR)*.   
