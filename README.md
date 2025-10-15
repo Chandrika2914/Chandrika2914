@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Chandrika Patibandla 👋</h1>
+<h1 align="center">Hello, I'm Chandrika Patibandla </h1>
 <p align="center">
 <b>Data Analyst | Aspiring Data Scientist</b>  
 Passionate about turning data into meaningful insights through <b>Python, SQL, Tableau, and Machine Learning</b>.
@@ -14,10 +14,10 @@ Passionate about turning data into meaningful insights through <b>Python, SQL, T
 
 ## 🚀 About Me
 - 🎓 Master’s candidate in **Data Science** at the University of Central Missouri (GPA: 3.83/4.0).  
-- 🧠 Published **IEEE research** on *Cognitive Workload Detection using Multispectral Imaging (NIR/LWIR)*.  
-- 💡 5 years of diverse professional experience across **data analytics, research, SEO, and technical coordination**.  
-- 🧩 Skilled in **data cleaning, visualization, feature engineering, and ML model development**.  
-- 🎯 Seeking roles as a **Data Analyst / Data Scientist / BI Analyst** to apply analytical, programming, and visualization expertise.
+- 💡 5 years of diverse professional experience across **data analytics, research, SEO, and technical coordination**.
+- 🧩 Skilled in **data cleaning, visualization, and enthusiastic in feature engineering, and ML model development**. 
+- 🧠 Co-authored **IEEE research** on *Cognitive Workload Detection using Multispectral Imaging (NIR/LWIR)*.   
+- 🎯 Seeking roles as a **Data Analyst / Data Scientist /** to apply analytical, programming, and visualization expertise.
 
 ---
 
