@@ -12,15 +12,15 @@ Passionate about turning data into meaningful insights through <b>Python, SQL, T
 
 ---
 
-## 🚀 About Me
-- 💡 5 years of diverse professional experience across **data analytics, research, SEO, and technical coordination**.
-- 🧩 Skilled in **data cleaning, visualization, and enthusiastic in feature engineering, and ML model development**. 
-- 🧠 Co-authored **IEEE research** on *Cognitive Workload Detection using Multispectral Imaging (NIR/LWIR)*.   
-- 🎯 Seeking roles as a **Data Analyst / Data Scientist /** to apply analytical, programming, and visualization expertise.
+## About Me
+- 5 years of diverse professional experience across **data analytics, research, SEO, and technical coordination**.
+- Skilled in **data cleaning, visualization, and enthusiastic in feature engineering, and ML model development**. 
+- Co-authored **IEEE research** on *Cognitive Workload Detection using Multispectral Imaging (NIR/LWIR)*.   
+- Seeking roles as a **Data Analyst / Data Scientist /** to apply analytical, programming, and visualization expertise.
 
 ---
 
-## 🧠 Core Skills
+## Core Skills
 | Category | Tools & Technologies |
 |-----------|----------------------|
 | **Programming & Analysis** | Python (Pandas, NumPy, Matplotlib), SQL, MATLAB, Excel |
@@ -32,7 +32,7 @@ Passionate about turning data into meaningful insights through <b>Python, SQL, T
 
 ---
 
-## 📂 Highlight Projects
+## Highlight Projects
 
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
@@ -43,10 +43,10 @@ Passionate about turning data into meaningful insights through <b>Python, SQL, T
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 
 ### **Next2U Srl – Pescara, Italy**  
-📊 *Data Analyst | Jan 2023 – Aug 2024*  
+*Data Analyst | Jan 2023 – Aug 2024*  
 - Conducted research on **cognitive workload detection** using **fNIRS Photon Cap & MATLAB**.  
 - Delivered analytical reports for pilot training studies and co-authored IEEE conference paper.  
 - Applied ML models and statistical analysis to **multispectral imaging data**.  
@@ -54,35 +54,35 @@ Passionate about turning data into meaningful insights through <b>Python, SQL, T
 - Designed and managed the **Wix company website** and project analytics dashboards.
 
 ### **Mouktik Consulting Services – Hyderabad, India**  
-🧩 *Technical Support Coordinator / Assistant Team Leader | Jan 2018 – Sep 2019*  
+*Technical Support Coordinator / Assistant Team Leader | Jan 2018 – Sep 2019*  
 - Led and mentored a support team using **data-driven analytics** for workflow improvements.  
 - Achieved **95% issue resolution** for Volvo clients within SLA.  
 - Designed reporting systems that improved escalation tracking and client satisfaction.
 
 ### **Digital Interakt – Hyderabad, India**  
-🌐 *SEO Executive | Jun 2017 – Dec 2017*  
+*SEO Executive | Jun 2017 – Dec 2017*  
 - Boosted website traffic by **30%** through keyword optimization and performance analytics.  
 - Strengthened data-based decision-making for digital campaigns.
 
 ### **Knowledge Matrix – Hyderabad, India**  
-☁️ *Intern | Jan 2017 – May 2017*  
+*Intern | Jan 2017 – May 2017*  
 - Built secure **cloud storage solutions**, enabling efficient data management and analysis.
 
 ---
 
-## 🎓 Education
+## Education
 - **Master’s in Data Science**, University of Central Missouri – *Expected 2025*  
 - **Master’s in Computer Science**, Università degli Studi di Bari Aldo Moro, Italy – *2019–2022*  
 - **Bachelor of Technology in Information Technology**, Vignan University, India – *2013–2017*  
 
 ---
 
-## 🧾 Certifications
-- 🧩 *Exploratory Data Analysis with MATLAB* – Coursera (MathWorks), 2023  
+## Certifications
+- *Exploratory Data Analysis with MATLAB* – Coursera (MathWorks), 2023  
 
 ---
 
-## 📊 Analytical Workflow
+## Analytical Workflow
 1. Define the business problem & KPIs  
 2. Collect, clean, and explore data  
 3. Develop insights & visualize patterns  
@@ -91,12 +91,12 @@ Passionate about turning data into meaningful insights through <b>Python, SQL, T
 
 ---
 
-## 🌐 Let’s Connect
-- 📧 **Email:** chandrika1429@gmail.com  
-- 💼 **LinkedIn:** [linkedin.com/in/chandrika-patibandla](https://www.linkedin.com/in/chandrika-patibandla)  
-- 💻 **GitHub:** [github.com/Chandrika2914](https://github.com/Chandrika2914)  
-- 📊 **Tableau Public:** [tableau.com/chandrika.patibandla1429](https://public.tableau.com/app/profile/chandrika.patibandla1429)
+## Let’s Connect
+- **Email:** chandrika1429@gmail.com  
+- **LinkedIn:** [linkedin.com/in/chandrika-patibandla](https://www.linkedin.com/in/chandrika-patibandla)  
+- **GitHub:** [github.com/Chandrika2914](https://github.com/Chandrika2914)  
+- **Tableau Public:** [tableau.com/chandrika.patibandla1429](https://public.tableau.com/app/profile/chandrika.patibandla1429)
 
-> ✨ *Curious mind, analytical thinker, and passionate about transforming raw data into meaningful stories.*
+> *Curious mind, analytical thinker, and passionate about transforming raw data into meaningful stories.*
 
 ---
