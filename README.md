@@ -1,55 +1,123 @@
-<h1 align="center">Hello, I'm Chandrika Patibandla </h1>
+<h1 align="center">👋 Hi, I'm Chandrika Patibandla</h1>
 <p align="center">
-<b>Data Analyst | Aspiring Data Scientist</b>  
-Passionate about turning data into meaningful insights through <b>Python, SQL, Tableau, and Machine Learning</b>.
+  <b>Data Analyst | Aspiring Data Scientist</b><br>
+  Turning data into decisions with <b>Python, SQL, Tableau, and Machine Learning</b>.
 </p>
 
 <p align="center">
+  <!-- EDIT: Add/remove links as you prefer -->
   <a href="https://www.linkedin.com/in/chandrika-patibandla/">LinkedIn</a> •
   <a href="https://github.com/Chandrika2914">GitHub</a> •
   <a href="https://public.tableau.com/app/profile/chandrika.patibandla1429">Tableau Public</a>
 </p>
 
+<p align="center">
+  <!-- EDIT: Add or remove badges; these are simple images that work on light/dark themes -->
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-025E8C?logo=mysql&logoColor=white">
+  <img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white">
+  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white">
+  <img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white">
+  <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black">
+</p>
+
 ---
 
 ## About Me
-- 5 years of diverse professional experience across **data analytics, research, SEO, and technical coordination**.
-- Skilled in **data cleaning, visualization, and enthusiastic in feature engineering, and ML model development**. 
-- Co-authored **IEEE research** on *Cognitive Workload Detection using Multispectral Imaging (NIR/LWIR)*.   
-- Seeking roles as a **Data Analyst / Data Scientist /** to apply analytical, programming, and visualization expertise.
+Data analyst with 5 years of cross-functional experience across **analytics, research, SEO, and technical coordination**. I enjoy building clean data pipelines, **visual stories**, and **ML models** that answer real questions. I co-authored an **IEEE paper** on cognitive workload detection using **hybrid NIR/LWIR imaging**, and I’m seeking roles where I can blend **analysis, programming, and visualization** to drive impact.
+
+<!-- EDIT: Keep this 3–4 lines for recruiter scan-ability. -->
 
 ---
 
 ## Core Skills
+
 | Category | Tools & Technologies |
-|-----------|----------------------|
+|---|---|
 | **Programming & Analysis** | Python (Pandas, NumPy, Matplotlib), SQL, MATLAB, Excel |
 | **Data Visualization** | Tableau, Power BI, Infogram |
-| **Machine Learning & Statistics** | scikit-learn, PCA, Random Forests, Regression, A/B Testing (in progress) |
-| **Cloud & Tools** | GitHub, Azure (in progress), Cortivision fNIRS Photon Cap |
-| **Web & Design** | WordPress, Wix, FIGMA |
-| **IoT Tools** | Node-RED, Tinkercad |
+| **Machine Learning & Stats** | scikit-learn, PCA, Random Forests, Regression, A/B Testing *(in progress)* |
+| **Cloud & Tools** | GitHub, Azure *(in progress)*, Cortivision fNIRS Photon Cap |
+| **Web & Design** | WordPress, Wix, Figma |
+| **IoT & Prototyping** | Node-RED, Tinkercad |
+
+<!-- EDIT: Add/remove items to match current strengths. Keep rows concise. -->
 
 ---
 
 ## Highlight Projects
-<table>
-<tr>
-  <td width="50%" align="center">
-    <a href="https://github.com/Chandrika2914/Healthcare-Predictive-Analytics">
-      <img src="images/healthcare_thumb.png" width="90%">
-      <br><b>Healthcare Predictive Analysis</b><br>
-      <i>Random Forest, PCA, Python</i>
-    </a>
-  </td>
-  <td width="50%" align="center">
-    <a href="https://github.com/Chandrika2914/Twitter-Sentiment-Analysis">
-      <img src="images/workload_thumb.png" width="90%">
-      <br><b>Twitter-Sentiment-Analysis</b><br>
-      <i> Pandas, NumPy, Tweepy (for fetching tweets), TextBlob / NLTK (for sentiment analysis), Matplotlib, Seaborn, WordCloud </i>
-    </a>
-  </td>
-</tr>
+
+<!-- =========================================================
+   SECTION: Python / ML (🩵 light blue tiles)
+   How to add a new tile:
+   1) Copy one <td>...</td> block
+   2) Update the href, <b>Title</b>, and <i>Tech stack</i>
+   3) Keep width="50%" for two tiles per row (adjust as needed)
+========================================================== -->
+### Python & Machine Learning
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center" style="background:#F0F7FF; border:1px solid #CBE0FF; border-radius:12px; padding:16px;">
+      <a href="https://github.com/Chandrika2914/Healthcare-Predictive-Analytics" style="text-decoration:none;">
+        <b>Healthcare Predictive Analysis</b>
+      </a>
+      <div><i>Random Forest, PCA, Python</i></div>
+      <!-- EDIT: Replace link above if your repo name changes -->
+    </td>
+    <td width="50%" align="center" style="background:#F0F7FF; border:1px solid #CBE0FF; border-radius:12px; padding:16px;">
+      <a href="https://github.com/Chandrika2914/Twitter-Sentiment-Analysis" style="text-decoration:none;">
+        <b>Twitter Sentiment Analysis</b>
+      </a>
+      <div><i>Pandas, NumPy, Tweepy, TextBlob/NLTK, Matplotlib, Seaborn, WordCloud</i></div>
+    </td>
+  </tr>
+</table>
+
+<!-- EDIT: To keep spacing consistent across sections, avoid images in tiles. -->
+
+<br>
+
+<!-- =========================================================
+   SECTION: Data Visualization (🟢 light green tiles)
+========================================================== -->
+### Data Visualization
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center" style="background:#F3FFF4; border:1px solid #CDEFD1; border-radius:12px; padding:16px;">
+      <a href="<!-- EDIT: add your Covid dashboard repo or Tableau link here -->" style="text-decoration:none;">
+        <b>COVID Dashboard</b>
+      </a>
+      <div><i>Tableau / Python — interactive KPIs, trends, geospatial</i></div>
+    </td>
+    <td width="50%" align="center" style="background:#F3FFF4; border:1px solid #CDEFD1; border-radius:12px; padding:16px;">
+      <a href="<!-- EDIT: add your case study repo link -->" style="text-decoration:none;">
+        <b>Business Case Study</b>
+      </a>
+      <div><i>Exploratory Analysis, KPI design, executive visuals</i></div>
+    </td>
+  </tr>
+</table>
+
+<!-- EDIT: Replace placeholder hrefs with your actual repo/Tableau links. -->
+
+<br>
+
+<!-- =========================================================
+   SECTION: Publications (🟣 lavender tiles)
+========================================================== -->
+### Publications
+
+<table width="100%">
+  <tr>
+    <td width="100%" align="center" style="background:#F7F3FF; border:1px solid #E0D6FF; border-radius:12px; padding:16px;">
+      <a href="https://doi.org/10.1109/TechDefense59795.2023.10380919" style="text-decoration:none;">
+        <b>Assessment of Cognitive Workload During Flight Training (Hybrid NIR/LWIR)</b>
+      </a>
+      <div><i>IEEE (2023) — feature engineering on multispectral signals, ML classification (73.7% accuracy)</i></div>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -58,38 +126,37 @@ Passionate about turning data into meaningful insights through <b>Python, SQL, T
 
 ### **Next2U Srl – Pescara, Italy**  
 *Data Analyst | Jan 2023 – Aug 2024*  
-- Conducted research on **cognitive workload detection** using **fNIRS Photon Cap & MATLAB**.  
-- Delivered analytical reports for pilot training studies and co-authored IEEE conference paper.  
-- Applied ML models and statistical analysis to **multispectral imaging data**.  
-- Processed and analyzed **physiological data (fNIRS, EEG, ECG, facial landmarks)** for pilot/driver monitoring systems.  
-- Designed and managed the **Wix company website** and project analytics dashboards.
+- Researched cognitive workload detection using **fNIRS Photon Cap** & **MATLAB**.  
+- Produced analytical reports for pilot training; **co-authored IEEE** conference paper.  
+- Built ML features and models on **multispectral imaging** data.  
+- Processed **fNIRS, EEG, ECG, facial landmarks** for pilot/driver monitoring.  
+- Designed and maintained the **Wix** company website and analytics dashboards.
 
 ### **Mouktik Consulting Services – Hyderabad, India**  
 *Technical Support Coordinator / Assistant Team Leader | Jan 2018 – Sep 2019*  
-- Led and mentored a support team using **data-driven analytics** for workflow improvements.  
+- Led and mentored a support team using **data-driven** dashboards and reports.  
 - Achieved **95% issue resolution** for Volvo clients within SLA.  
-- Designed reporting systems that improved escalation tracking and client satisfaction.
+- Improved escalation tracking with structured reporting.
 
 ### **Digital Interakt – Hyderabad, India**  
 *SEO Executive | Jun 2017 – Dec 2017*  
-- Boosted website traffic by **30%** through keyword optimization and performance analytics.  
-- Strengthened data-based decision-making for digital campaigns.
+- Increased website traffic by **30%** via keyword optimization and analytics.  
 
 ### **Knowledge Matrix – Hyderabad, India**  
 *Intern | Jan 2017 – May 2017*  
-- Built secure **cloud storage solutions**, enabling efficient data management and analysis.
+- Built secure **cloud storage** solutions to improve data access and analysis.
 
 ---
 
 ## Education
-- **Master’s in Data Science**, University of Central Missouri – *Expected 2025*  
-- **Master’s in Computer Science**, Università degli Studi di Bari Aldo Moro, Italy – *2019–2022*  
-- **Bachelor of Technology in Information Technology**, Vignan University, India – *2013–2017*  
+- **M.S. in Data Science**, University of Central Missouri — *Expected 2025*  
+- **M.S. in Computer Science**, Università degli Studi di Bari Aldo Moro — *2019–2022*  
+- **B.Tech. in Information Technology**, Vignan University — *2013–2017*  
 
 ---
 
 ## Certifications
-- *Exploratory Data Analysis with MATLAB* – Coursera (MathWorks), 2023  
+- *Exploratory Data Analysis with MATLAB* — Coursera (MathWorks), 2023
 
 ---
 
@@ -98,16 +165,16 @@ Passionate about turning data into meaningful insights through <b>Python, SQL, T
 2. Collect, clean, and explore data  
 3. Develop insights & visualize patterns  
 4. Apply ML or statistical techniques  
-5. Communicate findings clearly through dashboards or reports  
+5. Communicate findings via dashboards & reports  
 
 ---
 
 ## Let’s Connect
 - **Email:** chandrika1429@gmail.com  
-- **LinkedIn:** [linkedin.com/in/chandrika-patibandla](https://www.linkedin.com/in/chandrika-patibandla)  
-- **GitHub:** [github.com/Chandrika2914](https://github.com/Chandrika2914)  
-- **Tableau Public:** [tableau.com/chandrika.patibandla1429](https://public.tableau.com/app/profile/chandrika.patibandla1429)
+- **LinkedIn:** <a href="https://www.linkedin.com/in/chandrika-patibandla">linkedin.com/in/chandrika-patibandla</a>  
+- **GitHub:** <a href="https://github.com/Chandrika2914">github.com/Chandrika2914</a>  
+- **Tableau Public:** <a href="https://public.tableau.com/app/profile/chandrika.patibandla1429">public.tableau.com/app/profile/chandrika.patibandla1429</a>
 
 > *Curious mind, analytical thinker, and passionate about transforming raw data into meaningful stories.*
 
----
+
