@@ -33,13 +33,24 @@ Passionate about turning data into meaningful insights through <b>Python, SQL, T
 ---
 
 ## Highlight Projects
-
-| Project | Description | Tech Stack |
-|----------|--------------|-------------|
-| [**Assessment of Cognitive Workload During Flight Training**](https://doi.org/10.1109/TechDefense59795.2023.10380919) | Co-authored IEEE research; developed temperature-based features, performed ML classification of pilot workload with **73.7% accuracy**. | MATLAB, Python, fNIRS, EEG |
-| [**Healthcare Data Analysis – Predicting Hemoglobin Levels**](https://github.com/Chandrika2914/Chandrika-s_Portfolio-Projects) | Used **Random Forest & PCA** for healthcare data prediction, achieving **86.2% accuracy**. | Python, scikit-learn, pandas |
-| [**Data Visualization for EY Reports**](https://github.com/Chandrika2914/Chandrika-s_Portfolio-Projects) | Master’s thesis project: redesigned reporting visuals in **Tableau & Python**, reducing manual reporting errors. | Tableau, Python, Excel |
-| [**IoT-Enabled Interactive Quiz Game for Museums**](https://github.com/Chandrika2914/Chandrika-s_Portfolio-Projects) | Built IoT-based quiz game to enhance visitor engagement using Tinkercad and Node-RED. | Node-RED, IoT, UX design |
+<table>
+<tr>
+  <td width="50%" align="center">
+    <a href="https://github.com/Chandrika2914/Healthcare-Predictive-Analytics">
+      <img src="images/healthcare_thumb.png" width="90%">
+      <br><b>Healthcare Predictive Analysis</b><br>
+      <i>Random Forest, PCA, Python</i>
+    </a>
+  </td>
+  <td width="50%" align="center">
+    <a href="https://github.com/Chandrika2914/Twitter-Sentiment-Analysis">
+      <img src="images/workload_thumb.png" width="90%">
+      <br><b>Twitter-Sentiment-Analysis</b><br>
+      <i> Pandas, NumPy, Tweepy (for fetching tweets), TextBlob / NLTK (for sentiment analysis), Matplotlib, Seaborn, WordCloud </i>
+    </a>
+  </td>
+</tr>
+</table>
 
 ---
 
