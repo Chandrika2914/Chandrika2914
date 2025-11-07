@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Chandrika Patibandla  
+# Hi, I'm Chandrika Patibandla  
 **Data Analyst | Aspiring Data Scientist**  
 Turning complex data into actionable insights using **Python, SQL, Tableau, and Machine Learning.**  
 
@@ -6,14 +6,14 @@ Turning complex data into actionable insights using **Python, SQL, Tableau, and 
 
 ---
 
-## 🧠 About Me  
+## About Me  
 Data Analyst with 5+ years of cross-functional experience in **analytics, research, and visualization**.  
 Published **IEEE author** in cognitive workload detection using hybrid imaging (NIR/LWIR).  
 I enjoy building predictive models, analytical dashboards, and visual stories that turn raw data into business decisions.  
 
 ---
 
-## ⚙️ Core Skills  
+## Core Skills  
 
 | Category | Tools & Technologies |
 |-----------|----------------------|
@@ -26,39 +26,37 @@ I enjoy building predictive models, analytical dashboards, and visual stories th
 
 ---
 
-## 💼 Featured Projects — Turning Data into Decisions  
+## Featured Projects — Turning Data into Decisions  
+<h2 align="center">Featured Projects — Turning Data into Decisions</h2>
 
 <table align="center">
 <tr>
-  <td align="center">
+  <td align="center" width="45%">
     <a href="https://github.com/Chandrika2914/Healthcare-Predictive-Analytics">
-      <img src="images/healthcare.png" width="280px"><br>
       <b>Healthcare Predictive Analytics</b>
     </a><br>
     <i>Random Forest | PCA | 86.2% Accuracy</i><br>
     <sub>Predicting hemoglobin levels and visualizing key predictors in healthcare data.</sub>
   </td>
-  <td align="center">
+  <td align="center" width="45%">
     <a href="https://github.com/Chandrika2914/TSUNAMI-Detection">
-      <img src="images/tsunami.png" width="280px"><br>
       <b>Tsunami Detection</b>
     </a><br>
     <i>Signal Classification | PCA | Random Forest</i><br>
     <sub>Machine learning model for early seismic signal classification (91% accuracy).</sub>
   </td>
 </tr>
+
 <tr>
-  <td align="center">
+  <td align="center" width="45%">
     <a href="https://github.com/Chandrika2914/Twitter-Sentiment-Analysis">
-      <img src="images/twitter.png" width="280px"><br>
       <b>Twitter Sentiment Analysis</b>
     </a><br>
     <i>NLP | TextBlob | Data Visualization</i><br>
     <sub>Analyzing 20K+ tweets to uncover real-time sentiment trends.</sub>
   </td>
-  <td align="center">
+  <td align="center" width="45%">
     <a href="https://github.com/Chandrika2914/World-Happiness-Report">
-      <img src="images/happiness.png" width="280px"><br>
       <b>World Happiness Report 2021</b>
     </a><br>
     <i>Exploratory Analysis | Tableau | Python</i><br>
@@ -69,7 +67,7 @@ I enjoy building predictive models, analytical dashboards, and visual stories th
 
 ---
 
-## 📊 Tableau Dashboards — Data Storytelling in Action  
+## Tableau Dashboards — Data Storytelling in Action  
 
 | Dashboard | Description | Link |
 |------------|-------------|------|
@@ -77,19 +75,19 @@ I enjoy building predictive models, analytical dashboards, and visual stories th
 | **COVID-19 Analysis** | Geospatial & temporal trends visualization built in Tableau. | [View on Tableau →](#) |
 | **EY Data Reporting Study** | Redesigned analytics reports using Tableau & Python for better accuracy. | [View Story →](#) |
 
-> 💡 Each dashboard focuses on **clarity, storytelling, and actionable insights**, blending design with data interpretation.
+> Each dashboard focuses on **clarity, storytelling, and actionable insights**, blending design with data interpretation.
 
 ---
 
-## 🧬 Research & Publications  
+## Research & Publications  
 
-**🧠 Cognitive Workload Detection (IEEE, 2023)**  
+**Cognitive Workload Detection (IEEE, 2023)**  
 Co-authored publication on **ML-based cognitive workload classification** using hybrid NIR/LWIR imaging — achieved **73.7% classification accuracy**.  
-📄 [Read Publication](https://doi.org/10.1109/TechDefense59795.2023.10380919)
+[Read Publication](https://doi.org/10.1109/TechDefense59795.2023.10380919)
 
 ---
 
-## 💡 Business Takeaways  
+## Business Takeaways  
 
 - Predictive modeling can improve data-driven healthcare outcomes.  
 - NLP-based sentiment tracking helps understand social perception trends.  
@@ -97,7 +95,7 @@ Co-authored publication on **ML-based cognitive workload classification** using 
 
 ---
 
-## 🏆 Achievements & Certifications  
+## Achievements & Certifications  
 
 - **IEEE Conference Publication (2023)** – Cognitive Workload Detection  
 - **Coursera Certification** – Exploratory Data Analysis with MATLAB (MathWorks)  
@@ -105,7 +103,7 @@ Co-authored publication on **ML-based cognitive workload classification** using 
 
 ---
 
-## 👩‍💻 Professional Experience  
+## Professional Experience  
 
 **Next2U Srl (Italy)** – *Data Analyst (Jan 2023 – Aug 2024)*  
 Analyzed multispectral imaging data for pilot training studies; co-authored IEEE paper.  
@@ -117,7 +115,7 @@ Mentored support analysts and improved reporting accuracy.
 
 ---
 
-## 📫 Connect with Me  
-💌 **Email:** chandrika1429@gmail.com  
-🔗 **LinkedIn:** [linkedin.com/in/chandrika-patibandla](https://linkedin.com/in/chandrika-patibandla)  
-📊 **Tableau Public:** [Chandrika’s Visualizations](https://public.tableau.com/app/profile/chandrika.patibandla1429)
+## Connect with Me  
+**Email:** chandrika1429@gmail.com  
+**LinkedIn:** [linkedin.com/in/chandrika-patibandla](https://linkedin.com/in/chandrika-patibandla)  
+**Tableau Public:** [Chandrika’s Visualizations](https://public.tableau.com/app/profile/chandrika.patibandla1429)
