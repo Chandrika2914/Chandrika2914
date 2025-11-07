@@ -14,17 +14,17 @@
 <p align="center">
   <!-- EDIT: Add or remove badges; these are simple images that work on light/dark themes -->
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-025E8C?logo=mysql&logoColor=white">
   <img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white">
   <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white">
   <img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white">
   <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black">
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-025E8C?logo=mysql&logoColor=white">
 </p>
 
 ---
 
 ## About Me
-Data analyst with 5 years of cross-functional experience across **analytics, research, SEO, and technical coordination**. I enjoy building clean data pipelines, **visual stories**, and **ML models** that answer real questions. I co-authored an **IEEE paper** on cognitive workload detection using **hybrid NIR/LWIR imaging**, and I’m seeking roles where I can blend **analysis, programming, and visualization** to drive impact.
+Data analyst with 5 years of cross-functional experience across **analytics, research, SEO, and technical coordination**. I enjoy building **visual stories**, and **ML models** that answer real questions. I co-authored an **IEEE paper** on cognitive workload detection using **hybrid NIR/LWIR imaging**, and I’m seeking roles where I can blend **analysis, programming, and visualization** to drive impact.
 
 <!-- EDIT: Keep this 3–4 lines for recruiter scan-ability. -->
 
@@ -69,7 +69,25 @@ Data analyst with 5 years of cross-functional experience across **analytics, res
       <a href="https://github.com/Chandrika2914/Twitter-Sentiment-Analysis" style="text-decoration:none;">
         <b>Twitter Sentiment Analysis</b>
       </a>
-      <div><i>Pandas, NumPy, Tweepy, TextBlob/NLTK, Matplotlib, Seaborn, WordCloud</i></div>
+      <div><i>Pandas, NumPy, Tweepy, TextBlob/NLTK</i></div>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="50%" align="center" style="background:#F0F7FF; border:1px solid #CBE0FF; border-radius:12px; padding:16px;">
+      <a href="https://github.com/Chandrika2914/TSUNAMI-Detection" style="text-decoration:none;">
+        <b>TSUNAMI-Detection </b>
+      </a>
+      <div><i>Python, Random Forest, PCA</i></div>
+      <!-- EDIT: Replace link above if your repo name changes -->
+    </td>
+    <td width="50%" align="center" style="background:#F0F7FF; border:1px solid #CBE0FF; border-radius:12px; padding:16px;">
+      <a href="https://github.com/Chandrika2914/Comparative-Analysis-of-Least-Squares-Optimization-Techniques-Using-Python" 
+      title="Comparative Analysis of Least Squares Optimization Techniques Using Python"
+      style="text-decoration:none;">
+        <b>Least Squares Optimization</b>
+      </a>
+      <div><i>NumPy, Matplotlib, Gradient Descent, SVD</i></div>
     </td>
   </tr>
 </table>
@@ -86,16 +104,16 @@ Data analyst with 5 years of cross-functional experience across **analytics, res
 <table width="100%">
   <tr>
     <td width="50%" align="center" style="background:#F3FFF4; border:1px solid #CDEFD1; border-radius:12px; padding:16px;">
-      <a href="<!-- EDIT: add your Covid dashboard repo or Tableau link here -->" style="text-decoration:none;">
+      <a href="https://github.com/Chandrika2914/covid-deaths-dashboard" style="text-decoration:none;">
         <b>COVID Dashboard</b>
       </a>
-      <div><i>Tableau / Python — interactive KPIs, trends, geospatial</i></div>
+      <div><i>Tableau - interactive trends, geospatial</i></div>
     </td>
     <td width="50%" align="center" style="background:#F3FFF4; border:1px solid #CDEFD1; border-radius:12px; padding:16px;">
-      <a href="<!-- EDIT: add your case study repo link -->" style="text-decoration:none;">
-        <b>Business Case Study</b>
+      <a href="https://github.com/Chandrika2914/World-Happiness-Dashboard" style="text-decoration:none;">
+        <b>World Happiness 2021</b>
       </a>
-      <div><i>Exploratory Analysis, KPI design, executive visuals</i></div>
+      <div><i>Exploratory Analysis, executive visuals</i></div>
     </td>
   </tr>
 </table>
