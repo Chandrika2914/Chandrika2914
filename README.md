@@ -74,7 +74,7 @@ I enjoy building predictive models, analytical dashboards, and visual stories th
 | Dashboard | Description | Link |
 |------------|-------------|------|
 | **World Happiness 2021** | Interactive dashboard showing how GDP, Life Expectancy & Social Support affect happiness. | [View on Tableau →](https://public.tableau.com/app/profile/chandrika.patibandla1429) |
-| **COVID-19 Analysis** | Geospatial & temporal trends visualization built in Tableau. | [View Dashboard →](#) |
+| **COVID-19 Analysis** | Geospatial & temporal trends visualization built in Tableau. | [View on Tableau →](#) |
 | **EY Data Reporting Study** | Redesigned analytics reports using Tableau & Python for better accuracy. | [View Story →](#) |
 
 > 💡 Each dashboard focuses on **clarity, storytelling, and actionable insights**, blending design with data interpretation.
