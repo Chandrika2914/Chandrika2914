@@ -27,8 +27,6 @@ I enjoy building predictive models, analytical dashboards, and visual stories th
 ---
 
 ## Featured Projects — Turning Data into Decisions  
-<h2 align="center">Featured Projects — Turning Data into Decisions</h2>
-
 <table align="center">
 <tr>
   <td align="center" width="45%">
@@ -67,13 +65,13 @@ I enjoy building predictive models, analytical dashboards, and visual stories th
 
 ---
 
-## Tableau Dashboards — Data Storytelling in Action  
+## Tableau Dashboards — Data Storytelling in Action
 
-| Dashboard | Description | Link |
-|------------|-------------|------|
-| **World Happiness 2021** | Interactive dashboard showing how GDP, Life Expectancy & Social Support affect happiness. | [View on Tableau →](https://public.tableau.com/app/profile/chandrika.patibandla1429) |
-| **COVID-19 Analysis** | Geospatial & temporal trends visualization built in Tableau. | [View on Tableau →](#) |
-| **EY Data Reporting Study** | Redesigned analytics reports using Tableau & Python for better accuracy. | [View Story →](#) |
+| Dashboard | Description | Links |
+|------------|--------------|-------|
+| **World Happiness 2021** | Interactive dashboard showing how GDP, Life Expectancy & Social Support affect happiness. | [View on Tableau →](https://public.tableau.com/app/profile/chandrika.patibandla1429) • [View Full Project on GitHub →](https://github.com/Chandrika2914/World-Happiness-Report) |
+| **COVID-19 Analysis** | Geospatial & temporal trends visualization built in Tableau. | [View on Tableau →](https://public.tableau.com/app/profile/chandrika.patibandla1429) • [View Full Project on GitHub →](https://github.com/Chandrika2914/covid-deaths-dashboard)|
+| **EY Data Reporting Study** | Redesigned analytics reports using Tableau & Python for better accuracy. |[View Full Project on GitHub →](#) |
 
 > Each dashboard focuses on **clarity, storytelling, and actionable insights**, blending design with data interpretation.
 
