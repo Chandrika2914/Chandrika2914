@@ -2,7 +2,7 @@
 **Data Analyst | Aspiring Data Scientist**  
 Turning complex data into actionable insights using **Python, SQL, Tableau, and Machine Learning.**  
 
-🔗 [LinkedIn](https://linkedin.com/in/chandrika-patibandla) • [Tableau Public](https://public.tableau.com/app/profile/chandrika.patibandla1429)   
+[LinkedIn](https://linkedin.com/in/chandrika-patibandla) • [Tableau Public](https://public.tableau.com/app/profile/chandrika.patibandla1429)   
 
 ---
 
