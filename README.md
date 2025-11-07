@@ -56,11 +56,11 @@ I enjoy building predictive models, analytical dashboards, and visual stories th
     <sub>Analyzing 20K+ tweets to uncover real-time sentiment trends.</sub>
   </td>
   <td align="center" width="45%">
-    <a href="https://github.com/Chandrika2914/World-Happiness-Report">
-      <b>World Happiness Report 2021</b>
+    <a href="https://github.com/Chandrika2914/Comparative-Analysis-of-Least-Squares-Optimization-Techniques-Using-Python">
+      <b>Least Squares Optimization Techniques</b>
     </a><br>
-    <i>Exploratory Analysis | Tableau | Python</i><br>
-    <sub>Visual storytelling of global happiness drivers and socioeconomic impact.</sub>
+    <i>Optimization | Regression | Python</i><br>
+    <sub>Comparative study of Gradient Descent, Gauss-Newton, and Levenberg–Marquardt methods with convergence analysis.</sub>
   </td>
 </tr>
 </table>
