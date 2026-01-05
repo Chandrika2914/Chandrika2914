@@ -1,5 +1,5 @@
 # Hi, I'm Chandrika Patibandla  
-**Data Analyst | Aspiring Data Scientist**  
+**Data Scientist**  
 Turning complex data into actionable insights using **Python, SQL, Tableau, and Machine Learning.**  
 
 [LinkedIn](https://linkedin.com/in/chandrika-patibandla) • [Tableau Public](https://public.tableau.com/app/profile/chandrika.patibandla1429)   
@@ -7,7 +7,7 @@ Turning complex data into actionable insights using **Python, SQL, Tableau, and 
 ---
 
 ## About Me  
-Data Analyst with 5+ years of cross-functional experience in **analytics, research, and visualization**.  
+Data Analyst with 8+ years of cross-functional experience in **analytics, research, and visualization**.  
 Published **IEEE author** in cognitive workload detection using hybrid imaging (NIR/LWIR).  
 I enjoy building predictive models, analytical dashboards, and visual stories that turn raw data into business decisions.  
 
@@ -21,7 +21,7 @@ I enjoy building predictive models, analytical dashboards, and visual stories th
 | **Data Visualization** | Tableau, Power BI, Matplotlib, Seaborn |
 | **Machine Learning** | Random Forest, PCA, Regression, Clustering, A/B Testing |
 | **Data Engineering** | ETL Pipelines, Data Cleaning, Feature Engineering |
-| **Cloud & Tools** | GitHub, Azure (in progress), fNIRS Photon Cap |
+| **Cloud & Tools** | GitHub, Azure, fNIRS Photon Cap |
 | **Web & Design** | WordPress, Wix, FIGMA |
 
 ---
@@ -103,17 +103,13 @@ Co-authored publication on **ML-based cognitive workload classification** using 
 
 ## Professional Experience  
 
-**Next2U Srl (Italy)** – *Data Analyst (Jan 2023 – Aug 2024)*  
-Analyzed multispectral imaging data for pilot training studies; co-authored IEEE paper.  
-Automated ML preprocessing pipeline in Python and developed interactive analytical reports.
+**Next2U Srl (Italy)** – *Data Analyst* 
 
-**Mouktik Consulting (India)** – *Assistant Team Lead (2018 – 2019)*  
-Led data-driven escalation tracking system reducing SLA delays by 40%.  
-Mentored support analysts and improved reporting accuracy.
+**Mouktik Consulting Services Client:Volvo (India)** – *Data Analyst*  
 
 ---
 
 ## Connect with Me  
-**Email:** chandrika1429@gmail.com  
+**Email:** c.patibandla1429@gmail.com  
 **LinkedIn:** [linkedin.com/in/chandrika-patibandla](https://linkedin.com/in/chandrika-patibandla)  
 **Tableau Public:** [Chandrika’s Visualizations](https://public.tableau.com/app/profile/chandrika.patibandla1429)
